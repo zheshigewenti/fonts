@@ -1,4 +1,4 @@
 ```shell
-mkdir -p .local/share/fonts
+mkdir -p .local/share
 fc-cache -vf
 ```
